@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manideep Singh</h1>
 <h3 align="center">Code Artisan: Web & DSA</h3>
+<img src="po.gif" alt = "0" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mani070707&label=Profile%20views&color=0e75b6&style=flat" alt="mani070707" /> </p>
 
