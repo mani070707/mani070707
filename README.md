@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mani070707&label=Profile%20views&color=0e75b6&style=flat" alt="mani070707" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mani070707" alt="mani070707" /></a> </p>
-
 - 🔭 I’m currently working on **Expense Tracker**
 
 - 🌱 I’m currently learning **AI / ML**
