@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manideep Singh</h1>
 <h3 align="center">Code Artisan: Web & DSA</h3>
-<img src="po.gif" alt = "0" />
+<img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc5Mzg2ODIsIm5iZiI6MTcyNzkzODM4MiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDAzVDA2NTMwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdkZWE4M2E0MWMxM2VlZDg0YWM3YzVhNTQ4MDViMWQwMGIxYjU2ZmRlOGI0NDk2NjYyZTQ5NjM2ODZkNTZhOGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.e6hGrMKad_gaQ3VLIOeTcz6dBBShwfXnSm-mgd2shVk" alt = "0" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mani070707&label=Profile%20views&color=0e75b6&style=flat" alt="mani070707" /> </p>
 
