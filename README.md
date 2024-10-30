@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **manijassal178@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FvtOWP8nALKLM51qgOHWuLdfhVKIL42I/view?usp=drive_link](https://drive.google.com/file/d/1FvtOWP8nALKLM51qgOHWuLdfhVKIL42I/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FvtOWP8nALKLM51qgOHWuLdfhVKIL42I/view?usp=sharing]
 
 - ⚡ Fun fact **"JavaScript was created in just 10 days!"**
 
