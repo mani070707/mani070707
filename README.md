@@ -11,11 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Inner-Compass-AI**
 
-- 🤝 I’m looking for help with [Hospital_Management](https://mani070707.github.io/Hospital_Management/)
-
 - 💬 Ask me about **WEB DEV , DSA**
 
-- 📫 How to reach me **manijassal178@gmail.com**
+- 📫 How to reach me **manideepsingh55@gmail.com**
 
 - 📄 Know about my experiences
 
