@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **AI / ML**
 
-- 👯 I’m looking to collaborate on **Inner-Compass-AI**
-
 - 💬 Ask me about **WEB DEV , DSA**
 
 - 📫 How to reach me **manideepsingh55@gmail.com**
