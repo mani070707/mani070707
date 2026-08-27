@@ -1,26 +1,22 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6E40C9,100:00D9FF&height=220&section=header&text=Manideep%20Singh&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Applied%20AI&descAlignY=55&descSize=18">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F6F8FA,50:B9A7FF,100:67E8F9&height=220&section=header&text=Manideep%20Singh&fontSize=44&fontColor=1F2328&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Applied%20AI&descAlignY=55&descSize=18">
-  <img alt="Manideep Singh - Software Engineer, Full-Stack and Applied AI" src="https://capsule-render.vercel.app/api?type=waving&color=0:F6F8FA,50:B9A7FF,100:67E8F9&height=220&section=header&text=Manideep%20Singh&fontSize=44&fontColor=1F2328&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Applied%20AI&descAlignY=55&descSize=18">
-</picture>
+<h1>Hi, I'm Manideep Singh 👋</h1>
+
+<h3>Software Engineer · Full-Stack Developer · Applied AI/ML Engineer</h3>
+
+<p>I build production-minded backend systems, full-stack products, and applied-AI workflows that solve measurable business problems.</p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Applied+AI%2FML+Engineer;Java+%26+Spring+Boot+Developer;800%2B+DSA+Problems+Solved">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=6E40C9&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Applied+AI%2FML+Engineer;Java+%26+Spring+Boot+Developer;800%2B+DSA+Problems+Solved">
-  <img alt="Full-Stack Developer, Applied AI/ML Engineer, Java and Spring Boot Developer, 800+ DSA problems solved" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=6E40C9&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Applied+AI%2FML+Engineer;Java+%26+Spring+Boot+Developer;800%2B+DSA+Problems+Solved">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=680&lines=Java+%26+Spring+Boot;Full-Stack+Engineering;Applied+AI%2FML;Reliable+Systems+with+Measurable+Impact">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=6E40C9&center=true&vCenter=true&width=680&lines=Java+%26+Spring+Boot;Full-Stack+Engineering;Applied+AI%2FML;Reliable+Systems+with+Measurable+Impact">
+  <img alt="Java and Spring Boot, Full-Stack Engineering, Applied AI/ML, Reliable Systems with Measurable Impact" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=6E40C9&center=true&vCenter=true&width=680&lines=Java+%26+Spring+Boot;Full-Stack+Engineering;Applied+AI%2FML;Reliable+Systems+with+Measurable+Impact">
 </picture>
-
-I build production-minded backend systems, full-stack products, and applied-AI workflows that solve measurable business problems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6E40C9?style=for-the-badge&logo=cloudflare&logoColor=white)](https://tanstack-start-ts.manideep-singh-portfolio.workers.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0969DA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manideep55/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-mani55-FFA116?style=for-the-badge&logo=leetcode&logoColor=111827)](https://leetcode.com/u/mani55/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-zmoney-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/zmoney)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manideepsingh55@gmail.com)
-
-![Profile views](https://komarev.com/ghpvc/?username=mani070707&label=Profile+views&color=6E40C9&style=flat-square)
 
 </div>
 
@@ -90,28 +86,17 @@ I build production-minded backend systems, full-stack products, and applied-AI w
 ![Git](https://img.shields.io/badge/Git-24292F?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=FFFFFF)
 
-## Engineering Activity
+## Engineering Snapshot
+
+| Industry Experience | Problem Solving | Competitive Programming | Measured Impact |
+| :---: | :---: | :---: | :---: |
+| **2 internships** | **800+ DSA problems** | **1446 Codeforces peak** | **70% faster resolution** |
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mani070707&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=6E40C9&text_color=C9D1D9&rank_icon=github">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mani070707&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=6E40C9&icon_color=0969DA&text_color=1F2328&rank_icon=github">
-  <img alt="Manideep Singh's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=mani070707&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=6E40C9&icon_color=0969DA&text_color=1F2328&rank_icon=github">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mani070707&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mani070707&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=6E40C9&text_color=1F2328&langs_count=8">
-  <img alt="Most-used languages across Manideep Singh's public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mani070707&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=6E40C9&text_color=1F2328&langs_count=8">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mani070707&hide_border=true&background=0D1117&ring=6E40C9&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=mani070707&hide_border=true&background=FFFFFF&ring=6E40C9&fire=0969DA&currStreakLabel=6E40C9&sideLabels=1F2328&dates=57606A&currStreakNum=1F2328&sideNums=1F2328">
-  <img alt="Manideep Singh's GitHub contribution streak" src="https://streak-stats.demolab.com?user=mani070707&hide_border=true&background=FFFFFF&ring=6E40C9&fire=0969DA&currStreakLabel=6E40C9&sideLabels=1F2328&dates=57606A&currStreakNum=1F2328&sideNums=1F2328">
-</picture>
-
-<sub>Language statistics reflect public repository code and do not represent proficiency.</sub>
+![GitHub followers](https://img.shields.io/github/followers/mani070707?style=for-the-badge&label=Followers&color=0969DA)
+![GitHub stars](https://img.shields.io/github/stars/mani070707?affiliations=OWNER&style=for-the-badge&label=Total%20Stars&color=6E40C9)
+![Profile views](https://komarev.com/ghpvc/?username=mani070707&label=Profile+Views&color=0969DA&style=for-the-badge)
 
 </div>
 
@@ -134,11 +119,5 @@ I build production-minded backend systems, full-stack products, and applied-AI w
 ### Let's build something useful together.
 
 Open to collaboration and software engineering opportunities.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6E40C9,100:0D1117&height=110&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:67E8F9,50:B9A7FF,100:F6F8FA&height=110&section=footer">
-  <img alt="Decorative blue and purple footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:67E8F9,50:B9A7FF,100:F6F8FA&height=110&section=footer">
-</picture>
 
 </div>
