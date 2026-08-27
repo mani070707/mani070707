@@ -1,32 +1,144 @@
-<h1 align="center">Hi 👋, I'm Manideep Singh</h1>
-<h3 align="center">Code Artisan: Web & DSA</h3>
+<div align="center">
 
-<img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc5Mzg2ODIsIm5iZiI6MTcyNzkzODM4MiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDAzVDA2NTMwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdkZWE4M2E0MWMxM2VlZDg0YWM3YzVhNTQ4MDViMWQwMGIxYjU2ZmRlOGI0NDk2NjYyZTQ5NjM2ODZkNTZhOGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.e6hGrMKad_gaQ3VLIOeTcz6dBBShwfXnSm-mgd2shVk" alt = "0" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6E40C9,100:00D9FF&height=220&section=header&text=Manideep%20Singh&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Applied%20AI&descAlignY=55&descSize=18">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F6F8FA,50:B9A7FF,100:67E8F9&height=220&section=header&text=Manideep%20Singh&fontSize=44&fontColor=1F2328&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Applied%20AI&descAlignY=55&descSize=18">
+  <img alt="Manideep Singh - Software Engineer, Full-Stack and Applied AI" src="https://capsule-render.vercel.app/api?type=waving&color=0:F6F8FA,50:B9A7FF,100:67E8F9&height=220&section=header&text=Manideep%20Singh&fontSize=44&fontColor=1F2328&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Applied%20AI&descAlignY=55&descSize=18">
+</picture>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mani070707&label=Profile%20views&color=0e75b6&style=flat" alt="mani070707" /> </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Applied+AI%2FML+Engineer;Java+%26+Spring+Boot+Developer;800%2B+DSA+Problems+Solved">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=6E40C9&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Applied+AI%2FML+Engineer;Java+%26+Spring+Boot+Developer;800%2B+DSA+Problems+Solved">
+  <img alt="Full-Stack Developer, Applied AI/ML Engineer, Java and Spring Boot Developer, 800+ DSA problems solved" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=6E40C9&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Applied+AI%2FML+Engineer;Java+%26+Spring+Boot+Developer;800%2B+DSA+Problems+Solved">
+</picture>
 
-- 🔭 I’m currently working on **Expense Tracker**
+I build production-minded backend systems, full-stack products, and applied-AI workflows that solve measurable business problems.
 
-- 🌱 I’m currently learning **AI / ML**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6E40C9?style=for-the-badge&logo=cloudflare&logoColor=white)](https://tanstack-start-ts.manideep-singh-portfolio.workers.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0969DA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manideep55/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-mani55-FFA116?style=for-the-badge&logo=leetcode&logoColor=111827)](https://leetcode.com/u/mani55/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-zmoney-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/zmoney)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manideepsingh55@gmail.com)
 
-- 💬 Ask me about **WEB DEV , DSA**
+![Profile views](https://komarev.com/ghpvc/?username=mani070707&label=Profile+views&color=6E40C9&style=flat-square)
 
-- 📫 How to reach me **manideepsingh55@gmail.com**
+</div>
 
-- 📄 Know about my experiences
+## Professional Snapshot
 
-- ⚡ Fun fact **"JavaScript was created in just 10 days!"**
+- Software Developer Intern at **Zinnia** (Jan 2026 - Jul 2026), working across Java 17 microservices, Spring Boot, MongoDB, React, TypeScript, EKS, and applied-AI validation
+- Software Engineer Intern at **ARK Simplify** (May 2025 - Jun 2025), building document-intelligence agents and production backend APIs
+- B.Tech in Information Technology at **Netaji Subhas University of Technology (NSUT)**, Class of 2026
+- Interested in backend engineering, distributed systems, full-stack platforms, and reliable applied-AI products
+- Open to software engineering and full-stack opportunities
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/manideep-singh-581919279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manideep-singh-581919279" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mani55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mani55" height="30" width="40" /></a>
-<a href="https://discord.gg/mani555111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mani555111" height="30" width="40" /></a>
-</p>
+## Selected Impact
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- Built an AI correspondence-validation agent that processed about **100 PDFs** with **92% automated validation accuracy**
+- Developed an internal notification dashboard and PR-based production workflow that reduced issue-resolution time by about **70%**
+- Created a vision-LLM document-intelligence workflow with **95-98% schedule extraction** and **90-95% symbol recognition**
+- Solved **800+ algorithmic problems** and reached a **1446 Codeforces peak rating**
+- Won the **ConTecl Hackathon** and advanced to the analytics round of **Smart India Hackathon 2024**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mani070707&show_icons=true&locale=en&layout=compact" alt="mani070707" /></p>
+## Technical Toolkit
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mani070707&" alt="mani070707" /></p>
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-24292F?style=flat-square&logo=openjdk&logoColor=67E8F9)
+![Python](https://img.shields.io/badge/Python-24292F?style=flat-square&logo=python&logoColor=67E8F9)
+![TypeScript](https://img.shields.io/badge/TypeScript-24292F?style=flat-square&logo=typescript&logoColor=67E8F9)
+![C++](https://img.shields.io/badge/C++-24292F?style=flat-square&logo=cplusplus&logoColor=B9A7FF)
+
+**Backend & APIs**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-24292F?style=flat-square&logo=springboot&logoColor=6DB33F)
+![FastAPI](https://img.shields.io/badge/FastAPI-24292F?style=flat-square&logo=fastapi&logoColor=67E8F9)
+![Node.js](https://img.shields.io/badge/Node.js-24292F?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-24292F?style=flat-square&logo=express&logoColor=FFFFFF)
+![Microservices](https://img.shields.io/badge/Microservices-24292F?style=flat-square&logo=apache&logoColor=B9A7FF)
+![REST APIs](https://img.shields.io/badge/REST_APIs-24292F?style=flat-square&logo=openapiinitiative&logoColor=67E8F9)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-24292F?style=flat-square&logo=react&logoColor=67E8F9)
+![Next.js](https://img.shields.io/badge/Next.js-24292F?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+
+**AI & Data**
+
+![LangChain](https://img.shields.io/badge/LangChain-24292F?style=flat-square&logo=langchain&logoColor=67E8F9)
+![LangGraph](https://img.shields.io/badge/LangGraph-24292F?style=flat-square&logo=graphql&logoColor=B9A7FF)
+![RAG](https://img.shields.io/badge/RAG-24292F?style=flat-square&logo=googlegemini&logoColor=67E8F9)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-24292F?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/Pandas-24292F?style=flat-square&logo=pandas&logoColor=B9A7FF)
+![Vision LLMs](https://img.shields.io/badge/Vision_LLMs-24292F?style=flat-square&logo=googlegemini&logoColor=67E8F9)
+
+**Data, Messaging & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292F?style=flat-square&logo=postgresql&logoColor=67E8F9)
+![MongoDB](https://img.shields.io/badge/MongoDB-24292F?style=flat-square&logo=mongodb&logoColor=47A248)
+![pgvector](https://img.shields.io/badge/pgvector-24292F?style=flat-square&logo=postgresql&logoColor=B9A7FF)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-24292F?style=flat-square&logo=rabbitmq&logoColor=FF6600)
+![AWS](https://img.shields.io/badge/AWS-24292F?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![EKS](https://img.shields.io/badge/EKS-24292F?style=flat-square&logo=amazoneks&logoColor=FF9900)
+
+**Security, Testing & Tools**
+
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-24292F?style=flat-square&logo=auth0&logoColor=67E8F9)
+![Keycloak](https://img.shields.io/badge/Keycloak-24292F?style=flat-square&logo=keycloak&logoColor=B9A7FF)
+![JUnit](https://img.shields.io/badge/JUnit-24292F?style=flat-square&logo=junit5&logoColor=25A162)
+![Playwright](https://img.shields.io/badge/Playwright-24292F?style=flat-square&logo=playwright&logoColor=45BA4B)
+![Git](https://img.shields.io/badge/Git-24292F?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=FFFFFF)
+
+## Engineering Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mani070707&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=6E40C9&text_color=C9D1D9&rank_icon=github">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mani070707&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=6E40C9&icon_color=0969DA&text_color=1F2328&rank_icon=github">
+  <img alt="Manideep Singh's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=mani070707&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=6E40C9&icon_color=0969DA&text_color=1F2328&rank_icon=github">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mani070707&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mani070707&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=6E40C9&text_color=1F2328&langs_count=8">
+  <img alt="Most-used languages across Manideep Singh's public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mani070707&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=6E40C9&text_color=1F2328&langs_count=8">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mani070707&hide_border=true&background=0D1117&ring=6E40C9&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=mani070707&hide_border=true&background=FFFFFF&ring=6E40C9&fire=0969DA&currStreakLabel=6E40C9&sideLabels=1F2328&dates=57606A&currStreakNum=1F2328&sideNums=1F2328">
+  <img alt="Manideep Singh's GitHub contribution streak" src="https://streak-stats.demolab.com?user=mani070707&hide_border=true&background=FFFFFF&ring=6E40C9&fire=0969DA&currStreakLabel=6E40C9&sideLabels=1F2328&dates=57606A&currStreakNum=1F2328&sideNums=1F2328">
+</picture>
+
+<sub>Language statistics reflect public repository code and do not represent proficiency.</sub>
+
+</div>
+
+## Contribution Journey
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mani070707/mani070707/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mani070707/mani070707/output/github-contribution-grid-snake.svg">
+  <img alt="Animated contribution graph showing Manideep Singh's GitHub activity" src="https://raw.githubusercontent.com/mani070707/mani070707/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's build something useful together.
+
+Open to collaboration and software engineering opportunities.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6E40C9,100:0D1117&height=110&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:67E8F9,50:B9A7FF,100:F6F8FA&height=110&section=footer">
+  <img alt="Decorative blue and purple footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:67E8F9,50:B9A7FF,100:F6F8FA&height=110&section=footer">
+</picture>
+
+</div>
